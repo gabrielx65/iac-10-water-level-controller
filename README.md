@@ -107,6 +107,7 @@ Project images, schematics, and installation details are available in the reposi
 - Digital water level display
 - IoT-enabled remote monitoring version
 
+Upgraded Version: [IAC-20 Water Level Controller](https://github.com/gabrielx65/iac-20-water-level-controller)
 ---
 
 ## 👤 Author
