@@ -1,4 +1,4 @@
-![IAC-10 Panel](images/panel-front.jpg)
+![IAC-10 Panel](images/front-panel.jpg)
 
 # IAC-10 Water Level Controller (Hardware Project)
 
